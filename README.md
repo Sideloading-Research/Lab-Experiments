@@ -1,6 +1,13 @@
 # Lab-Experiments
 Repository for storing a battery of experiments about cloning human personality.
 
+# Authors
+
+    - Roman Sitelew
+    - Alexey Turchin
+    - Marco Baturan
+    At Internet, 10/04/2025
+
 # Human Personality Simulation Experiments: A Comparative Analysis Using the Humanity Delta Index
 
 ## Abstract
